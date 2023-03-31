@@ -3,3 +3,23 @@ body {
     color: #ffffff;
     text-align: center;
 }
+
+.portfolio {
+    text-align: center;
+    display: inline-flex;
+    width: 400px;
+    height: 100px;
+    padding: 10px;
+    margin: 80px;
+    border:solid black;
+}
+
+.about {
+    text-align: center;
+    display: inline-flex;
+    width: 400px;
+    height: 100px;
+    padding: 10px;
+    margin: 80px;
+    border:solid black;
+}
