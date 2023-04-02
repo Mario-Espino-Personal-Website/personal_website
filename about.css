@@ -1,11 +1,12 @@
 img {
     float: left;
+    align-self: auto;
+    border-image-outset: 7px 12px 14px 5px;
 }
 
 .rock-climbing {
    width: 200px;
    height: 200px;
-   border: 200px;
 }
 
 .soccer {
@@ -18,18 +19,12 @@ img {
    height: 200px;
 }
 
-p {
+
+
+div {
     display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
+    align-content: space-around;
+    border: solid white;
+    padding-bottom: 80px;
 }
 
-* {
-    box-sizing: border-box;
-}
-
-article {
-    display: block;
-}
