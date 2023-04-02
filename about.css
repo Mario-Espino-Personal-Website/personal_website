@@ -1,3 +1,9 @@
+.header{
+    display: flex;
+
+    
+}
+
 img {
     float: left;
     align-self: auto;
@@ -24,7 +30,6 @@ img {
 div {
     display: block;
     align-content: space-around;
-    border: solid white;
-    padding-bottom: 80px;
+    border: solid black;
+    padding-bottom: 200px;
 }
-

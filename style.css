@@ -1,6 +1,5 @@
 body {
-    background-color: #454a4d;
-    color: #ffffff;
+    color: black;
     text-align: center;
 }
 
@@ -24,4 +23,9 @@ body {
     margin: 80px;
     border:solid black;
     background-color: #89CFF0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
 }
