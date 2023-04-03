@@ -1,0 +1,19 @@
+
+
+section {
+    display: block;
+    align-content: space-around;
+    border-top: solid black;
+    border-bottom: solid black;
+    margin: 100px auto;
+    padding-bottom: 90px;
+    align-self: auto;
+}
+
+img {
+    float: right;
+    align-self: auto;
+    width: 200px;
+    height: 200px;
+}
+
