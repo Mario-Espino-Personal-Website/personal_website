@@ -32,3 +32,32 @@ a {
     text-decoration: none;
     color: inherit;
 }
+
+main {
+    min-height: fit-content;
+}
+
+.socials {
+    text-align: right;
+    word-spacing: 20px;
+    font-size: 16pt;
+}
+
+.navigation {
+    text-align: left;
+    word-spacing: 50px;
+    font-size: 32pt;
+}
+
+.footer {
+    box-sizing: border-box;
+    border-top: none;
+    background-color: #dbd3d8;
+    width: 1000px;
+    height: 64px;
+    padding: 16px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
