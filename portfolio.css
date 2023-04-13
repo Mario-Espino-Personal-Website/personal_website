@@ -1,12 +1,14 @@
 
 
+
 section {
-    display: block;
+    display: flex;
+    flex-direction: column;
     align-content: space-around;
     border-top: solid black;
     border-bottom: solid black;
     margin: 100px auto;
-    padding-bottom: 90px;
+    width: 1000px;
     align-self: auto;
 }
 
