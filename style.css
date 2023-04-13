@@ -57,10 +57,11 @@ main {
     flex-direction: column;
     justify-content: flex-end;
     align-self: center;
-    
     float: right !important;
     z-index: 1;
-    position: fixed;
+    right: 30px;
+    top: 250px;
+    position: relative;
     
 }
 
