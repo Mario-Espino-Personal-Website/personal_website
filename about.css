@@ -1,35 +1,45 @@
+.navigation {
+    text-align: center;
+}
 
+body {
+    text-align: center;
+}
 
 img {
     float: left;
-    align-self: auto;
-    border-image-outset: 7px 12px 14px 5px;
 }
 
 .rock-climbing {
-   width: 200px;
-   height: 200px;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
 }
 
 .soccer {
     width: 300px;
-   height: 200px;
+    height: 200px;
 }
 
 .cybersecurity {
     width: 200px;
-   height: 200px;
+    height: 200px;
 }
 
 
 
 div {
-    display: block;
-    align-content: space-around;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
     border-top: solid black;
     border-bottom: solid black;
     margin: 100px auto;
-    float: left;
-    align-self: auto;
+    width: 1000px;
+    
 }
 
+p {
+    text-align: justify;
+}
